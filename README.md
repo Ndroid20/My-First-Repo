@@ -1,2 +1,4 @@
 # myFirstRepository
-My first repository
+
+First repository created
+Learning how to navigate GitHub
